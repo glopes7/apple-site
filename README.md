@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Replicação do Website da Apple - Projeto de Estudos
 
-## Getting Started
+Este projeto é uma replicação do website da Apple, desenvolvido com Next.js. Foi criado exclusivamente para fins de estudo e prática. Não há intenção de distribuição comercial e nenhum conteúdo original da Apple foi usado. 
 
-First, run the development server:
+## Descrição do Projeto
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Este projeto visa fornecer uma oportunidade de aprendizado ao replicar a aparência e a funcionalidade do website da Apple. Você pode explorar as técnicas de design e desenvolvimento utilizadas na criação do site oficial da Apple.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Recursos
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next.js**: Utilizamos o framework Next.js para criar a estrutura da aplicação e facilitar a renderização no lado do servidor.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **React**: O React é a biblioteca principal para criar componentes e gerenciar o estado da aplicação.
 
-## Learn More
+- **HTML/CSS**: Foi utilizada HTML e CSS para criar a estrutura e o estilo da página.
 
-To learn more about Next.js, take a look at the following resources:
+- **Imagens**: Todas as imagens usadas no projeto são de código aberto e não foram retiradas do site oficial da Apple.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Pré-requisitos
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Antes de executar o projeto, você deve ter o seguinte software instalado:
 
-## Deploy on Vercel
+- Node.js: [Download e Instalação](https://nodejs.org/)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Como Executar
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Siga as etapas abaixo para executar o projeto em sua máquina local:
+
+1. Clone o repositório: git clone https://github.com/glopes7/apple-site
+2.Navegue até o diretório do projeto: cd apple-site
+3. Instale as dependências: npm install
+4. Inicie o servidor de desenvolvimento: npm run dev
+5. Abra o navegador e acesse [http://localhost:3000](http://localhost:3000) para visualizar o projeto replicado.
+
+## Contribuições
+
+Contribuições são bem-vindas, especialmente se você deseja melhorar o código ou adicionar mais funcionalidades para fins de estudo.
+
+## Licença
+
+Este projeto é distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+
+## Agradecimentos
+
+Agradecemos à Apple por fornecer um excelente exemplo de design de site para fins de estudo e prática.
+
+---
+
+**AVISO**: Este projeto é apenas uma replicação de design do site da Apple para fins educacionais e não possui nenhuma afiliação com a Apple Inc. É estritamente para fins de estudo e não deve ser usado com objetivos comerciais. Certifique-se de cumprir todas as leis de direitos autorais ao usar o código e os recursos deste projeto.
+
